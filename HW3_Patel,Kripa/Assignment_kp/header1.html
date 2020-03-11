@@ -1,0 +1,96 @@
+<!doctype html>
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>BestDeal</title>
+
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+  <link rel="stylesheet" href="styles.css" type="text/css" />
+  <script type="text/javascript" src="https://www.gstatic.com/charts/loader.js"></script>
+  
+  <script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
+  <script type="text/javascript">     
+	  google.charts.load('current', {'packages':['corechart']});
+      google.charts.setOnLoadCallback(drawProductChart1);
+    
+	function drawProductChart1() {
+         
+		var table1 = new google.visualization.DataTable();
+        table1.addColumn('string','Product Name');
+        table1.addColumn('number','Total Sales($)'); 
+		var result1 = $.ajax({       
+			   url: "SalesJson",
+               async: false,
+			   dataType: "json"
+        }).responseText;
+			   
+		var resultJson1=JSON.parse(result1);
+    
+		for(var i=0;i<resultJson1.length;i++){
+           table1.addRow([resultJson1[i]["name"],resultJson1[i]["quantity"]*resultJson1[i]["price"]]);
+         }
+		 
+		var options1 = {
+			width: 1400,
+			height: 800,
+			'is3D':true,
+			title: "Sales Chart",
+			bar: {groupWidth: "42%"},
+			legend: { position: "none" }
+		};
+		 
+		var an1 = new google.visualization.BarChart(document.getElementById('sales_barchart'));
+        an1.draw(table1,options1);
+      }
+    </script>
+  <script type="text/javascript">     
+	  google.charts.load('current', {'packages':['corechart']});
+      google.charts.setOnLoadCallback(drawProductChart);
+    
+	function drawProductChart() {
+         
+		var table = new google.visualization.DataTable();
+        table.addColumn('string','Product Name');
+        table.addColumn('number','Total Inventory'); 
+		var result = $.ajax({       
+			   url: "ProductJson",
+               async: false,
+			   dataType: "json"
+        }).responseText;
+			   
+		var resultJson=JSON.parse(result);
+    
+		for(var i=0;i<resultJson.length;i++){
+           table.addRow([resultJson[i]["name"],resultJson[i]["quantity"]]);
+         }
+		 
+		var options = {
+			width: 1400,
+			height: 2950,
+			'is3D':true,
+			title: "Inventory Chart",
+			bar: {groupWidth: "42%"},
+			legend: { position: "none" }
+		};
+		 
+		var an = new google.visualization.BarChart(document.getElementById('inventory_barchart'));
+        an.draw(table,options);
+      }
+    </script>
+</head>
+<body>
+<div id="container">
+    <header>
+    	<h1><a href="Home">Best<span>Deal</span></a></h1>
+    </header>
+    <nav>
+    	<ul>
+        	<li class="start selected"><a href="HomeSM">Home</a></li>
+            <li><a href="AddProductPage">Add Product</a></li>
+            <li><a href="ProductUpdatePage">Update Product</a></li>
+            <li><a href="ProductDeletePage">Delete Product</a></li>
+			<li><a href="SignoutPage">Sign Out</a></li>
+		</ul>
+	</nav>

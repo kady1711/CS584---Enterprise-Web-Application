@@ -1,0 +1,2631 @@
+<?xml version = "1.0" encoding = "UTF-8"?>
+<ProductCatalog>
+<products>
+<televisions id="1" retailer="bestdeal">
+<image>
+Samsung 82 classled.jpg
+</image>
+<name>
+123
+</name>
+<price>
+346
+</price>
+<condition>
+n
+</condition>
+<company>
+lik
+</company>
+<color>
+Black
+</color>
+<description>
+4679
+</description>
+</televisions>
+<televisions id="2" retailer="bestdeal">
+<image>
+Samsung 82 classled.jpg
+</image>
+<name>
+123
+</name>
+<price>
+346
+</price>
+<condition>
+n
+</condition>
+<company>
+lik
+</company>
+<color>
+Black
+</color>
+<description>
+4679
+</description>
+</televisions>
+<televisions id="3" retailer="bestdeal">
+<image>
+lg_oled.jpg
+</image>
+<name>
+NEW one
+</name>
+<price>
+23345
+</price>
+<condition>
+Renewed
+</condition>
+<company>
+LG
+</company>
+<color>
+space grey
+</color>
+<description>
+testing
+</description>
+</televisions>
+<speakers id="4" retailer="bestdeal">
+<image>
+bose wireless surround speaker.jpg
+</image>
+<name>
+Sony speakers
+</name>
+<price>
+236
+</price>
+<condition>
+New
+</condition>
+<company>
+Sony
+</company>
+<color>
+Black
+</color>
+<description>
+-----------------------------
+</description>
+</speakers>
+<speakers id="5" retailer="bestdeal">
+<image>
+bose wireless surround speaker.jpg
+</image>
+<name>
+Sony speakers
+</name>
+<price>
+236
+</price>
+<condition>
+New
+</condition>
+<company>
+Sony
+</company>
+<color>
+Black
+</color>
+<description>
+-----------------------------
+</description>
+</speakers>
+<speakers id="6" retailer="bestdeal">
+<image>
+bose wireless surround speaker.jpg
+</image>
+<name>
+Bose - Wireless Surround Speakers for Home Theater
+</name>
+<price>
+299
+</price>
+<condition>
+Renewed
+</condition>
+<company>
+Bose
+</company>
+<color>
+Black
+</color>
+<description>
+Bose Surround Speakers take spaciousness to a whole new level. Add these wireless surround sound speakers to the Bose Soundbar 500 or Soundbar 700 smart speakers and feel what it's like to be in the middle of what you listen to or watch. At 4" tall, these small speakers are designed to blend seamlessly into your room or home theater
+</description>
+</speakers>
+<speakers id="7" retailer="bigbasket">
+<image>
+LG channel 300w.jpg
+</image>
+<name>
+LG - 2.1-Channel 300W Soundbar System with Wireless Subwoofer
+</name>
+<price>
+139.99
+</price>
+<condition>
+New
+</condition>
+<company>
+LG
+</company>
+<color>
+Black
+</color>
+<description>
+Enhance your entertainment experience with this 2.1 channel LG sound bar. Built-in Bluetooth lets you link wirelessly to your TV to produce lifelike acoustics, and the Adaptive Sound Control feature automatically adjusts mode for different audio profiles. The outboard wireless subwoofer improves the overall audio experience, adding impressive bass to movies and more. This 300W LG sound bar includes a battery-operated remote that is compatible with most TV brands to provide a single control.
+</description>
+</speakers>
+<speakers id="8" retailer="bestdeal">
+<image>
+vizio smartcast5 channel.jpg
+</image>
+<name>
+VIZIO - SmartCast 5.1 Channel Sound Bar System with 5-1/4" Wireless Subwoofer
+</name>
+<price>
+249.99
+</price>
+<condition>
+New
+</condition>
+<company>
+Vizio
+</company>
+<color>
+Silver
+</color>
+<description>
+Turn movie nights with the kids into something special with this VIZIO sound bar. The slim design mounts easily on a wall, or you can place it on a table, and Dolby Digital technology delivers impeccable sound reproduction. This VIZIO sound bar features a wireless subwoofer and remote control for easy across-the-room control
+</description>
+</speakers>
+<speakers id="9">
+<image>
+samsung channel 200w.jpg
+</image>
+<name>
+Samsung - 2.1-Channel 200W Soundbar System
+</name>
+<price>
+169.99
+</price>
+<condition>
+New
+</condition>
+<company>
+Samsung
+</company>
+<color>
+Black
+</color>
+<description>
+Experience immersive audio without bothersome cords by using this Samsung sound bar. Stream music from a phone or audio device through an integrated Bluetooth receiver, and enjoy more dynamic listening with a special smart sound mode. This Samsung sound bar features a special game mode that boosts in-game sound effects
+</description>
+</speakers>
+<televisions id="10">
+<image>
+toshiba 50 classled.jpg
+</image>
+<name>
+Toshiba - 50" Class - LED
+</name>
+<price>
+289.99
+</price>
+<condition>
+Renewed
+</condition>
+<company>
+Toshiba
+</company>
+<color>
+Black
+</color>
+<description>
+Enjoy visual content in Ultra HD quality with this 50-inch Toshiba 4K Fire TV. Compatibility with popular virtual assistants supports voice control, while the 60Hz refresh rate ensures stutter-free transitions. This Toshiba 4K Fire TV features USB and HDMI inputs for connections to external sources and a tuner to access free-to-air channels
+</description>
+</televisions>
+<televisions id="11" retailer="bestdeal">
+<image>
+sony 65 classled.jpg
+</image>
+<name>
+Sony - 65" Class - LED - X900F Series
+</name>
+<price>
+1399.99
+</price>
+<condition>
+New
+</condition>
+<company>
+Sony
+</company>
+<color>
+Silver
+</color>
+<description>
+Play games and watch movies on this 65-inch Sony 4K TV. Its full-array local dimming delivers stunning brightness and a more colorful picture with high contrast, and the effective cable management system keeps wires hidden from sight. This Sony 4K TV uses X-Motion Clarity technology for showing smooth, lifelike action during sporting events
+</description>
+</televisions>
+<televisions id="12">
+<image>
+Samsung 82 classled.jpg
+</image>
+<name>
+Samsung - 82" Class - LED - Q6F Series
+</name>
+<price>
+2429.99
+</price>
+<condition>
+New
+</condition>
+<company>
+Samsung
+</company>
+<color>
+Black
+</color>
+<description>
+Watch the big game and feel like you're a part of the action with this 82-inch Samsung Smart TV. Its four HDMI inputs let you connect gaming consoles and A/V accessories, and its slim bezel provides the maximum amount of viewing real estate. This Samsung Smart TV has a 4K resolution for a picture that's detailed and crisp.
+</description>
+</televisions>
+<televisions id="13" retailer="bestdeal">
+<image>
+hisense 55 classled.jpg
+</image>
+<name>
+Hisense - 55 Class - LED - H9 Plus Series
+</name>
+<price>
+699.99
+</price>
+<condition>
+New
+</condition>
+<company>
+Hisense
+</company>
+<color>
+space grey
+</color>
+<description>
+Control your Ultra HD and HDR viewing experience with this 55-inch Hisense ULED smart TV. It comes with Google Assistant built in, so you can search programs by voice, and its Android TV operating system provides access to various streaming apps. This Hisense ULED smart TV has a true 120Hz native panel with a motion rate of 240Hz for smooth display of fast-action scenes.
+</description>
+</televisions>
+<televisions id="14">
+<image>
+lg_oled.jpg
+</image>
+<name>
+LG oled
+</name>
+<price>
+1599
+</price>
+<condition>
+New
+</condition>
+<company>
+LG
+</company>
+<color>
+Black
+</color>
+<description>
++++++++++++++++++++
+</description>
+</televisions>
+<SmartWatches id="15" retailer="bestdeal">
+<image>
+demo1.jpg
+</image>
+<name>
+Watch
+</name>
+<price>
+75
+</price>
+<condition>
+brand new
+</condition>
+<company>
+Apple
+</company>
+<color>
+Silver
+</color>
+<description>
+****
+</description>
+</SmartWatches>
+<FitnessWatches id="16" retailer="bestdeal">
+<image>
+Garmin-Black.jpg
+</image>
+<name>
+Garmin-Black Fitness Watch
+</name>
+<price>
+500
+</price>
+<condition>
+Brand New
+</condition>
+<company>
+Garmin>
+</company>
+<color>
+Black
+</color>
+<description>
+**********
+</description>
+<accessories>
+<accessory>
+<accessoryName>
+Bluetooth Headphones
+</accessoryName>
+<accessoryPrice>
+120
+</accessoryPrice>
+<accessoryCondition>
+Brand New
+</accessoryCondition>
+<accessoryImage>
+JayBird.png
+</accessoryImage>
+</accessory>
+<accessory>
+<accessoryName>
+Screenguard
+</accessoryName>
+<accessoryPrice>
+15
+</accessoryPrice>
+<accessoryCondition>
+Brand New
+</accessoryCondition>
+<accessoryImage>
+Garmin-screenguard.jpg
+</accessoryImage>
+</accessory>
+</accessories>
+</FitnessWatches>
+<FitnessWatches id="17" retailer="bestdeal">
+<image>
+Fitbit-Adidas Edition.jpg
+</image>
+<name>
+Fitbit Fitness Watch-Edidas edition
+</name>
+<price>
+300
+</price>
+<condition>
+Brand New
+</condition>
+<company>
+Fitbit
+</company>
+<color>
+deep blue
+</color>
+<description>
+********
+</description>
+<accessories>
+<accessory>
+<accessoryName>
+Wireless Bluetooth Headphones
+</accessoryName>
+<accessoryPrice>
+100
+</accessoryPrice>
+<accessoryCondition>
+Brand New
+</accessoryCondition>
+<accessoryImage>
+Jabra.png
+</accessoryImage>
+</accessory>
+<accessory>
+<accessoryName>
+Invisible Shield for Watch
+</accessoryName>
+<accessoryPrice>
+10
+</accessoryPrice>
+<accessoryCondition>
+Brand New
+</accessoryCondition>
+<accessoryImage>
+Shield.png
+</accessoryImage>
+</accessory>
+</accessories>
+</FitnessWatches>
+<FitnessWatches id="18">
+<image>
+Suunto-Black.jpg
+</image>
+<name>
+Suunto- Spartan Ultra Black
+</name>
+<price>
+699
+</price>
+<condition>
+Brand New
+</condition>
+<company>
+Suunto
+</company>
+<color>
+Black
+</color>
+<description>
+***********
+</description>
+<accessories>
+<accessory>
+<accessoryName>
+Apple Airpods
+</accessoryName>
+<accessoryPrice>
+130
+</accessoryPrice>
+<accessoryCondition>
+Brand New
+</accessoryCondition>
+<accessoryImage>
+AppleAirpods.jpg
+</accessoryImage>
+</accessory>
+<accessory>
+<accessoryName>
+Extra Strap for Watch
+</accessoryName>
+<accessoryPrice>
+50
+</accessoryPrice>
+<accessoryCondition>
+Brand New
+</accessoryCondition>
+<accessoryImage>
+Strap.png
+</accessoryImage>
+</accessory>
+</accessories>
+</FitnessWatches>
+<FitnessWatches id="19" retailer="bestdeal">
+<image>
+Timex-Pink.jpg
+</image>
+<name>
+Timex Fitness Watch
+</name>
+<price>
+49
+</price>
+<condition>
+Brand New
+</condition>
+<company>
+Timex
+</company>
+<color>
+Pink
+</color>
+<description>
+***************
+</description>
+<accessories>
+<accessory>
+<accessoryName>
+Charger
+</accessoryName>
+<accessoryPrice>
+25
+</accessoryPrice>
+<accessoryCondition>
+Brand New
+</accessoryCondition>
+<accessoryImage>
+Charger.jpg
+</accessoryImage>
+</accessory>
+<accessory>
+<accessoryName>
+Item Tracker
+</accessoryName>
+<accessoryPrice>
+19
+</accessoryPrice>
+<accessoryCondition>
+Brand New
+</accessoryCondition>
+<accessoryImage>
+Tile.jpg
+</accessoryImage>
+</accessory>
+</accessories>
+</FitnessWatches>
+<FitnessWatches id="20" retailer="bigbasket">
+<image>
+Apple_Series4.jpg
+</image>
+<name>
+Apple Series 4 fitness watch
+</name>
+<price>
+350
+</price>
+<condition>
+Brand New
+</condition>
+<company>
+Apple
+</company>
+<color>
+Black
+</color>
+<description>
+************
+</description>
+<accessories>
+<accessory>
+<accessoryName>
+Charging cable for Apple watch
+</accessoryName>
+<accessoryPrice>
+25
+</accessoryPrice>
+<accessoryCondition>
+Brand New
+</accessoryCondition>
+<accessoryImage>
+Cable.jpg
+</accessoryImage>
+</accessory>
+<accessory>
+<accessoryName>
+Apple wireless Airpods
+</accessoryName>
+<accessoryPrice>
+130
+</accessoryPrice>
+<accessoryCondition>
+Brand New
+</accessoryCondition>
+<accessoryImage>
+AppleAirpods.jpg
+</accessoryImage>
+</accessory>
+</accessories>
+</FitnessWatches>
+<SmartWatches id="21">
+<image>
+EmporioArmani.jpg
+</image>
+<name>
+Emporio Armani Smart Watch
+</name>
+<price>
+390
+</price>
+<condition>
+Brand New
+</condition>
+<company>
+Emporio Armani
+</company>
+<color>
+Silver
+</color>
+<description>
+*************
+</description>
+<accessories>
+<accessory>
+<accessoryName>
+Watch Shield
+</accessoryName>
+<accessoryPrice>
+20
+</accessoryPrice>
+<accessoryCondition>
+Brand New
+</accessoryCondition>
+<accessoryImage>
+EAShield.jpg
+</accessoryImage>
+</accessory>
+<accessory>
+<accessoryName>
+Case for watch
+</accessoryName>
+<accessoryPrice>
+75
+</accessoryPrice>
+<accessoryCondition>
+Brand New
+</accessoryCondition>
+<accessoryImage>
+Box.jpg
+</accessoryImage>
+</accessory>
+</accessories>
+</SmartWatches>
+<SmartWatches id="22" retailer="bestdeal">
+<image>
+Huawei_Titanium.jpg
+</image>
+<name>
+Huawei Smart Watch- Titanium
+</name>
+<price>
+275
+</price>
+<condition>
+Brand New
+</condition>
+<company>
+Huawei
+</company>
+<color>
+Titanium Gray
+</color>
+<description>
+***************
+</description>
+<accessories>
+<accessory>
+<accessoryName>
+Screen Guard
+</accessoryName>
+<accessoryPrice>
+15
+</accessoryPrice>
+<accessoryCondition>
+Brand New
+</accessoryCondition>
+<accessoryImage>
+HTShield.jpg
+</accessoryImage>
+</accessory>
+<accessory>
+<accessoryName>
+Charging Cable
+</accessoryName>
+<accessoryPrice>
+25
+</accessoryPrice>
+<accessoryCondition>
+Brand New
+</accessoryCondition>
+<accessoryImage>
+Charger.jpg
+</accessoryImage>
+</accessory>
+</accessories>
+</SmartWatches>
+<SmartWatches id="23" retailer="bestdeal">
+<image>
+KateSpade_Gold.jpg
+</image>
+<name>
+Kate Spade Smart Watch Rose Gold
+</name>
+<price>
+325
+</price>
+<condition>
+Brand New
+</condition>
+<company>
+Kate Spade
+</company>
+<color>
+Rose Gold
+</color>
+<description>
+***************
+</description>
+<accessories>
+<accessory>
+<accessoryName>
+Charger for Smart Watch
+</accessoryName>
+<accessoryPrice>
+35
+</accessoryPrice>
+<accessoryCondition>
+Brand New
+</accessoryCondition>
+<accessoryImage>
+KScharger.png
+</accessoryImage>
+</accessory>
+<accessory>
+<accessoryName>
+3 pack Watch Screen Protector
+</accessoryName>
+<accessoryPrice>
+30
+</accessoryPrice>
+<accessoryCondition>
+Brand New
+</accessoryCondition>
+<accessoryImage>
+KSshield3.jpg
+</accessoryImage>
+</accessory>
+</accessories>
+</SmartWatches>
+<SmartWatches id="24">
+<image>
+Samsung_Gear2.jpg
+</image>
+<name>
+Samsung smart watch - Gear 2
+</name>
+<price>
+400
+</price>
+<condition>
+Brand New
+</condition>
+<company>
+Samsung
+</company>
+<color>
+Black
+</color>
+<description>
+***************
+</description>
+<accessories>
+<accessory>
+<accessoryName>
+Screen Guard
+</accessoryName>
+<accessoryPrice>
+15
+</accessoryPrice>
+<accessoryCondition>
+Brand New
+</accessoryCondition>
+<accessoryImage>
+Shield.png
+</accessoryImage>
+</accessory>
+<accessory>
+<accessoryName>
+Charging Cable
+</accessoryName>
+<accessoryPrice>
+30
+</accessoryPrice>
+<accessoryCondition>
+Brand New
+</accessoryCondition>
+<accessoryImage>
+Charger.jpg
+</accessoryImage>
+</accessory>
+</accessories>
+</SmartWatches>
+<SmartWatches id="25" retailer="bestdeal">
+<image>
+Skagen.jpg
+</image>
+<name>
+Skagen Smart Watch
+</name>
+<price>
+199
+</price>
+<condition>
+Brand New
+</condition>
+<company>
+Skagen
+</company>
+<color>
+Brown
+</color>
+<description>
+***************
+</description>
+<accessories>
+<accessory>
+<accessoryName>
+Screen Guard
+</accessoryName>
+<accessoryPrice>
+15
+</accessoryPrice>
+<accessoryCondition>
+Brand New
+</accessoryCondition>
+<accessoryImage>
+HTShield.jpg
+</accessoryImage>
+</accessory>
+<accessory>
+<accessoryName>
+Spare Watch Strap
+</accessoryName>
+<accessoryPrice>
+45
+</accessoryPrice>
+<accessoryCondition>
+Brand New
+</accessoryCondition>
+<accessoryImage>
+Belt.jpg
+</accessoryImage>
+</accessory>
+</accessories>
+</SmartWatches>
+<Headphones id="26" retailer="bestdeal">
+<image>
+Beats.png
+</image>
+<name>
+Beats Headphones
+</name>
+<price>
+160
+</price>
+<condition>
+Brand New
+</condition>
+<company>
+Beats
+</company>
+<color>
+Black
+</color>
+<description>
+***************
+</description>
+<accessories>
+<accessory>
+<accessoryName>
+Earpads
+</accessoryName>
+<accessoryPrice>
+30
+</accessoryPrice>
+<accessoryCondition>
+Brand New
+</accessoryCondition>
+<accessoryImage>
+Earpads.jpg
+</accessoryImage>
+</accessory>
+<accessory>
+<accessoryName>
+Spare Cable
+</accessoryName>
+<accessoryPrice>
+15
+</accessoryPrice>
+<accessoryCondition>
+Brand New
+</accessoryCondition>
+<accessoryImage>
+Cable.jpg
+</accessoryImage>
+</accessory>
+</accessories>
+</Headphones>
+<Headphones id="27">
+<image>
+Beats_Wireless.png
+</image>
+<name>
+Beats Wireless Headphones
+</name>
+<price>
+250
+</price>
+<condition>
+Brand New
+</condition>
+<company>
+Beats
+</company>
+<color>
+Black
+</color>
+<description>
+***************
+</description>
+<accessories>
+<accessory>
+<accessoryName>
+Earpads
+</accessoryName>
+<accessoryPrice>
+30
+</accessoryPrice>
+<accessoryCondition>
+Brand New
+</accessoryCondition>
+<accessoryImage>
+Earpads.jpg
+</accessoryImage>
+</accessory>
+<accessory>
+<accessoryName>
+Charger
+</accessoryName>
+<accessoryPrice>
+40
+</accessoryPrice>
+<accessoryCondition>
+Brand New
+</accessoryCondition>
+<accessoryImage>
+Bcharger.jpg
+</accessoryImage>
+</accessory>
+</accessories>
+</Headphones>
+<Headphones id="28" retailer="bestdeal">
+<image>
+Sony.png
+</image>
+<name>
+Sony Headphones
+</name>
+<price>
+90
+</price>
+<condition>
+Brand New
+</condition>
+<company>
+Sony
+</company>
+<color>
+Black
+</color>
+<description>
+***************
+</description>
+<accessories>
+<accessory>
+<accessoryName>
+Earpads
+</accessoryName>
+<accessoryPrice>
+30
+</accessoryPrice>
+<accessoryCondition>
+Brand New
+</accessoryCondition>
+<accessoryImage>
+Searpads.jpg
+</accessoryImage>
+</accessory>
+<accessory>
+<accessoryName>
+Spare Cable
+</accessoryName>
+<accessoryPrice>
+15
+</accessoryPrice>
+<accessoryCondition>
+Brand New
+</accessoryCondition>
+<accessoryImage>
+Scable.jpg
+</accessoryImage>
+</accessory>
+</accessories>
+</Headphones>
+<Headphones id="29" retailer="bigbasket">
+<image>
+Sony_Wireless.jpg
+</image>
+<name>
+Sony Wireless Headphones
+</name>
+<price>
+160
+</price>
+<condition>
+Brand New
+</condition>
+<company>
+Sony
+</company>
+<color>
+Black
+</color>
+<description>
+***************
+</description>
+<accessories>
+<accessory>
+<accessoryName>
+Earpads
+</accessoryName>
+<accessoryPrice>
+30
+</accessoryPrice>
+<accessoryCondition>
+Brand New
+</accessoryCondition>
+<accessoryImage>
+Searpads.jpg
+</accessoryImage>
+</accessory>
+<accessory>
+<accessoryName>
+Charger
+</accessoryName>
+<accessoryPrice>
+50
+</accessoryPrice>
+<accessoryCondition>
+Brand New
+</accessoryCondition>
+<accessoryImage>
+Scharger.jpg
+</accessoryImage>
+</accessory>
+</accessories>
+</Headphones>
+<Headphones id="30">
+<Headphones id="199">
+<image>
+Skullcandy.jpg
+</image>
+<name>
+Skullcandy Headphones
+</name>
+<price>
+100
+</price>
+<condition>
+Brand New
+</condition>
+<company>
+Skullcandy
+</company>
+<color>
+Black
+</color>
+<description>
+***************
+</description>
+<accessories>
+<accessory>
+<accessoryName>
+Earpads
+</accessoryName>
+<accessoryPrice>
+30
+</accessoryPrice>
+<accessoryCondition>
+Brand New
+</accessoryCondition>
+<accessoryImage>
+Searpads.jpg
+</accessoryImage>
+</accessory>
+<accessory>
+<accessoryName>
+Spare Cable
+</accessoryName>
+<accessoryPrice>
+15
+</accessoryPrice>
+<accessoryCondition>
+Brand New
+</accessoryCondition>
+<accessoryImage>
+Scable.jpg
+</accessoryImage>
+</accessory>
+</accessories>
+</Headphones>
+<Phones id="31">
+<image>
+iPhoneX.jpg
+</image>
+<name>
+iPhone X
+</name>
+<price>
+1000
+</price>
+<condition>
+Brand New
+</condition>
+<company>
+Apple
+</company>
+<color>
+Space Gray
+</color>
+<description>
+***************
+</description>
+<accessories>
+<accessory>
+<accessoryName>
+iPhone Charger
+</accessoryName>
+<accessoryPrice>
+25
+</accessoryPrice>
+<accessoryCondition>
+Brand New
+</accessoryCondition>
+<accessoryImage>
+iPhone_Charger.jpeg
+</accessoryImage>
+</accessory>
+<accessory>
+<accessoryName>
+Wireless Airpods
+</accessoryName>
+<accessoryPrice>
+130
+</accessoryPrice>
+<accessoryCondition>
+Brand New
+</accessoryCondition>
+<accessoryImage>
+AppleAirpods.jpg
+</accessoryImage>
+</accessory>
+</accessories>
+</Phones>
+<Phones id="32" retailer="bestdeal">
+<image>
+iPhoneXR.jpg
+</image>
+<name>
+iPhone XR
+</name>
+<price>
+1299
+</price>
+<condition>
+Brand New
+</condition>
+<company>
+Apple
+</company>
+<color>
+Black
+</color>
+<description>
+***************
+</description>
+<accessories>
+<accessory>
+<accessoryName>
+iPhone Charger
+</accessoryName>
+<accessoryPrice>
+25
+</accessoryPrice>
+<accessoryCondition>
+Brand New
+</accessoryCondition>
+<accessoryImage>
+iPhone_Charger.jpeg
+</accessoryImage>
+</accessory>
+<accessory>
+<accessoryName>
+Wireless Airpods
+</accessoryName>
+<accessoryPrice>
+130
+</accessoryPrice>
+<accessoryCondition>
+Brand New
+</accessoryCondition>
+<accessoryImage>
+AppleAirpods.jpg
+</accessoryImage>
+</accessory>
+</accessories>
+</Phones>
+<Phones id="33" retailer="bestdeal">
+<image>
+iPhoneXS.jpg
+</image>
+<name>
+iPhone XS
+</name>
+<price>
+1199
+</price>
+<condition>
+Brand New
+</condition>
+<company>
+Apple
+</company>
+<color>
+Black
+</color>
+<description>
+***************
+</description>
+<accessories>
+<accessory>
+<accessoryName>
+iPhone Charger
+</accessoryName>
+<accessoryPrice>
+25
+</accessoryPrice>
+<accessoryCondition>
+Brand New
+</accessoryCondition>
+<accessoryImage>
+iPhone_Charger.jpeg
+</accessoryImage>
+</accessory>
+<accessory>
+<accessoryName>
+Wireless Airpods
+</accessoryName>
+<accessoryPrice>
+130
+</accessoryPrice>
+<accessoryCondition>
+Brand New
+</accessoryCondition>
+<accessoryImage>
+AppleAirpods.jpg
+</accessoryImage>
+</accessory>
+</accessories>
+</Phones>
+<Phones id="34">
+<image>
+iPhone8.jpg
+</image>
+<name>
+iPhone 8
+</name>
+<price>
+849
+</price>
+<condition>
+Brand New
+</condition>
+<company>
+Apple
+</company>
+<color>
+Black
+</color>
+<description>
+***************
+</description>
+<accessories>
+<accessory>
+<accessoryName>
+iPhone Charger
+</accessoryName>
+<accessoryPrice>
+25
+</accessoryPrice>
+<accessoryCondition>
+Brand New
+</accessoryCondition>
+<accessoryImage>
+iPhone_Charger.jpeg
+</accessoryImage>
+</accessory>
+<accessory>
+<accessoryName>
+Wireless Airpods
+</accessoryName>
+<accessoryPrice>
+130
+</accessoryPrice>
+<accessoryCondition>
+Brand New
+</accessoryCondition>
+<accessoryImage>
+AppleAirpods.jpg
+</accessoryImage>
+</accessory>
+</accessories>
+</Phones>
+<Phones id="35">
+<image>
+iPhone7.jpg
+</image>
+<name>
+iPhone 7
+</name>
+<price>
+700
+</price>
+<condition>
+Brand New
+</condition>
+<company>
+Apple
+</company>
+<color>
+Black
+</color>
+<description>
+***************
+</description>
+<accessories>
+<accessory>
+<accessoryName>
+iPhone Charger
+</accessoryName>
+<accessoryPrice>
+25
+</accessoryPrice>
+<accessoryCondition>
+Brand New
+</accessoryCondition>
+<accessoryImage>
+iPhone_Charger.jpeg
+</accessoryImage>
+</accessory>
+<accessory>
+<accessoryName>
+Wireless Airpods
+</accessoryName>
+<accessoryPrice>
+130
+</accessoryPrice>
+<accessoryCondition>
+Brand New
+</accessoryCondition>
+<accessoryImage>
+AppleAirpods.jpg
+</accessoryImage>
+</accessory>
+</accessories>
+</Phones>
+<Laptops id="36" retailer="bestdeal">
+<image>
+Macbook.jpg
+</image>
+<name>
+Macbook
+</name>
+<price>
+2000
+</price>
+<condition>
+Brand New
+</condition>
+<company>
+Apple
+</company>
+<color>
+Silver
+</color>
+<description>
+***************
+</description>
+<accessories>
+<accessory>
+<accessoryName>
+Macbook Charger
+</accessoryName>
+<accessoryPrice>
+250
+</accessoryPrice>
+<accessoryCondition>
+Brand New
+</accessoryCondition>
+<accessoryImage>
+Macbook_Charger.jpg
+</accessoryImage>
+</accessory>
+<accessory>
+<accessoryName>
+Wireless Airpods
+</accessoryName>
+<accessoryPrice>
+130
+</accessoryPrice>
+<accessoryCondition>
+Brand New
+</accessoryCondition>
+<accessoryImage>
+AppleAirpods.jpg
+</accessoryImage>
+</accessory>
+</accessories>
+</Laptops>
+<Laptops id="37" retailer="bestdeal">
+<image>
+Asus.png
+</image>
+<name>
+Asus Laptops
+</name>
+<price>
+700
+</price>
+<condition>
+Brand New
+</condition>
+<company>
+Asus
+</company>
+<color>
+Space Grey
+</color>
+<description>
+***************
+</description>
+<accessories>
+<accessory>
+<accessoryName>
+Asus Charger
+</accessoryName>
+<accessoryPrice>
+100
+</accessoryPrice>
+<accessoryCondition>
+Brand New
+</accessoryCondition>
+<accessoryImage>
+Asus_Charger.jpg
+</accessoryImage>
+</accessory>
+<accessory>
+<accessoryName>
+Keyboard
+</accessoryName>
+<accessoryPrice>
+130
+</accessoryPrice>
+<accessoryCondition>
+Brand New
+</accessoryCondition>
+<accessoryImage>
+Asus_Keyboard.jpg
+</accessoryImage>
+</accessory>
+</accessories>
+</Laptops>
+<Laptops id="38">
+<image>
+Dell.jpg
+</image>
+<name>
+Dell Inspiron Laptop
+</name>
+<price>
+900
+</price>
+<condition>
+Brand New
+</condition>
+<company>
+Dell
+</company>
+<color>
+Silver
+</color>
+<description>
+***************
+</description>
+<accessories>
+<accessory>
+<accessoryName>
+Dell Charger
+</accessoryName>
+<accessoryPrice>
+200
+</accessoryPrice>
+<accessoryCondition>
+Brand New
+</accessoryCondition>
+<accessoryImage>
+Dell_Charger.jpg
+</accessoryImage>
+</accessory>
+<accessory>
+<accessoryName>
+Dell laptop bag
+</accessoryName>
+<accessoryPrice>
+150
+</accessoryPrice>
+<accessoryCondition>
+Brand New
+</accessoryCondition>
+<accessoryImage>
+Dell_laptopbag.jpg
+</accessoryImage>
+</accessory>
+</accessories>
+</Laptops>
+<Laptops id="39">
+<image>
+hp_spectre.png
+</image>
+<name>
+Hp Spectre Laptop
+</name>
+<price>
+750
+</price>
+<condition>
+Brand New
+</condition>
+<company>
+HP
+</company>
+<color>
+Silver
+</color>
+<description>
+***************
+</description>
+<accessories>
+<accessory>
+<accessoryName>
+HP Spectre Charger
+</accessoryName>
+<accessoryPrice>
+250
+</accessoryPrice>
+<accessoryCondition>
+Brand New
+</accessoryCondition>
+<accessoryImage>
+hp_Charger.jpg
+</accessoryImage>
+</accessory>
+<accessory>
+<accessoryName>
+HP laptop bag
+</accessoryName>
+<accessoryPrice>
+90
+</accessoryPrice>
+<accessoryCondition>
+Brand New
+</accessoryCondition>
+<accessoryImage>
+hpbag.jpg
+</accessoryImage>
+</accessory>
+</accessories>
+</Laptops>
+<Laptops id="40">
+<image>
+Microsoft_Surface.jpg
+</image>
+<name>
+Microsoft Surface Laptop
+</name>
+<price>
+1300
+</price>
+<condition>
+Brand New
+</condition>
+<company>
+Microsoft
+</company>
+<color>
+Silver
+</color>
+<description>
+***************
+</description>
+<accessories>
+<accessory>
+<accessoryName>
+Macbook Charger
+</accessoryName>
+<accessoryPrice>
+350
+</accessoryPrice>
+<accessoryCondition>
+Brand New
+</accessoryCondition>
+<accessoryImage>
+Surface_Charger.jpg
+</accessoryImage>
+</accessory>
+<accessory>
+<accessoryName>
+Mouse
+</accessoryName>
+<accessoryPrice>
+100
+</accessoryPrice>
+<accessoryCondition>
+Brand New
+</accessoryCondition>
+<accessoryImage>
+Mouse.jpg
+</accessoryImage>
+</accessory>
+</accessories>
+</Laptops>
+<VoiceAssistant id="41">
+<image>
+Google_Home.jpeg
+</image>
+<name>
+Smart Speaker-Google Home Mini
+</name>
+<price>
+110
+</price>
+<condition>
+Brand New
+</condition>
+<company>
+Google
+</company>
+<color>
+Silver
+</color>
+<description>
+***************
+</description>
+<accessories>
+<accessory>
+<accessoryName>
+Google Home Charger
+</accessoryName>
+<accessoryPrice>
+50
+</accessoryPrice>
+<accessoryCondition>
+Brand New
+</accessoryCondition>
+<accessoryImage>
+GH_Charger.jpg
+</accessoryImage>
+</accessory>
+<accessory>
+<accessoryName>
+Mini Speaker
+</accessoryName>
+<accessoryPrice>
+30
+</accessoryPrice>
+<accessoryCondition>
+Brand New
+</accessoryCondition>
+<accessoryImage>
+Google_MiniSpeaker.jpg
+</accessoryImage>
+</accessory>
+</accessories>
+</VoiceAssistant>
+<VoiceAssistant id="42" retailer="bestdeal">
+<image>
+JBL.jpg
+</image>
+<name>
+Smart Speaker-JBL
+</name>
+<price>
+150
+</price>
+<condition>
+Brand New
+</condition>
+<company>
+JBL
+</company>
+<color>
+Black
+</color>
+<description>
+***************
+</description>
+<accessories>
+<accessory>
+<accessoryName>
+JBL Speaker Charger
+</accessoryName>
+<accessoryPrice>
+50
+</accessoryPrice>
+<accessoryCondition>
+Brand New
+</accessoryCondition>
+<accessoryImage>
+JBL_Charger.jpg
+</accessoryImage>
+</accessory>
+<accessory>
+<accessoryName>
+Case
+</accessoryName>
+<accessoryPrice>
+30
+</accessoryPrice>
+<accessoryCondition>
+Brand New
+</accessoryCondition>
+<accessoryImage>
+JBL_speakerkit.jpg
+</accessoryImage>
+</accessory>
+</accessories>
+</VoiceAssistant>
+<VoiceAssistant id="43">
+<image>
+Insignia.jpg
+</image>
+<name>
+Smart Speaker-Insignia
+</name>
+<price>
+145
+</price>
+<condition>
+Brand New
+</condition>
+<company>
+Insignia
+</company>
+<color>
+Black
+</color>
+<description>
+***************
+</description>
+<accessories>
+<accessory>
+<accessoryName>
+Insignia Charger
+</accessoryName>
+<accessoryPrice>
+50
+</accessoryPrice>
+<accessoryCondition>
+Brand New
+</accessoryCondition>
+<accessoryImage>
+Insignia_Charger.jpg
+</accessoryImage>
+</accessory>
+<accessory>
+<accessoryName>
+Socket
+</accessoryName>
+<accessoryPrice>
+30
+</accessoryPrice>
+<accessoryCondition>
+Brand New
+</accessoryCondition>
+<accessoryImage>
+Insignia_SmartSocket.jpg
+</accessoryImage>
+</accessory>
+</accessories>
+</VoiceAssistant>
+<VoiceAssistant id="44" retailer="bestdeal">
+<image>
+LG_Thinq.jpg
+</image>
+<name>
+Smart Speaker-Thinq
+</name>
+<price>
+90
+</price>
+<condition>
+Brand New
+</condition>
+<company>
+LG
+</company>
+<color>
+Black
+</color>
+<description>
+***************
+</description>
+<accessories>
+<accessory>
+<accessoryName>
+LG Thinq Charger
+</accessoryName>
+<accessoryPrice>
+35
+</accessoryPrice>
+<accessoryCondition>
+Brand New
+</accessoryCondition>
+<accessoryImage>
+LG_Charger.jpg
+</accessoryImage>
+</accessory>
+<accessory>
+<accessoryName>
+Case
+</accessoryName>
+<accessoryPrice>
+15
+</accessoryPrice>
+<accessoryCondition>
+Brand New
+</accessoryCondition>
+<accessoryImage>
+LG_case.jpg
+</accessoryImage>
+</accessory>
+</accessories>
+</VoiceAssistant>
+<VoiceAssistant id="45" retailer="bestdeal">
+<image>
+Sony.jpg
+</image>
+<name>
+Smart Speaker-Sony
+</name>
+<price>
+75
+</price>
+<condition>
+Brand New
+</condition>
+<company>
+Sony
+</company>
+<color>
+Silver
+</color>
+<description>
+***************
+</description>
+<accessories>
+<accessory>
+<accessoryName>
+Sony Smart Speaker Charger
+</accessoryName>
+<accessoryPrice>
+25
+</accessoryPrice>
+<accessoryCondition>
+Brand New
+</accessoryCondition>
+<accessoryImage>
+Sony_Charger.jpg
+</accessoryImage>
+</accessory>
+<accessory>
+<accessoryName>
+Speaker Case
+</accessoryName>
+<accessoryPrice>
+10
+</accessoryPrice>
+<accessoryCondition>
+Brand New
+</accessoryCondition>
+<accessoryImage>
+Sony_Case.jpg
+</accessoryImage>
+</accessory>
+</accessories>
+</VoiceAssistant>
+<SmartWatches id="46">
+<image>
+kingwear.jpg
+</image>
+<name>
+KingWear smart watch
+</name>
+<price>
+95
+</price>
+<condition>
+Brand New
+</condition>
+<company>
+King Wear
+</company>
+<color>
+Black
+</color>
+<description>
+*****************
+</description>
+</SmartWatches>
+<SmartWatches id="47">
+<image>
+s928.jpg
+</image>
+<name>
+s928 smart watch
+</name>
+<price>
+80
+</price>
+<condition>
+Brand New
+</condition>
+<company>
+GearBest
+</company>
+<color>
+Black
+</color>
+<description>
+***********
+</description>
+</SmartWatches>
+<SmartWatches id="48" retailer="bestdeal">
+<image>
+mi_watch.jpg
+</image>
+<name>
+Xiaomi Smart Watch
+</name>
+<price>
+75
+</price>
+<condition>
+Brand New
+</condition>
+<company>
+Xiaomi
+</company>
+<color>
+Black
+</color>
+<description>
+*************
+</description>
+</SmartWatches>
+<SmartWatches id="49">
+<image>
+asus_watch.jpg
+</image>
+<name>
+Asus smart Watch
+</name>
+<price>
+85
+</price>
+<condition>
+Brand New
+</condition>
+<company>
+Asus
+</company>
+<color>
+Black
+</color>
+<description>
+****************
+</description>
+</SmartWatches>
+<SmartWatches id="50">
+<image>
+moto.jpg
+</image>
+<name>
+motorola smart watch
+</name>
+<price>
+65
+</price>
+<condition>
+Brand New
+</condition>
+<company>
+Motorola
+</company>
+<color>
+Black
+</color>
+<description>
+*******************
+</description>
+</SmartWatches>
+<FitnessWatches id="51" retailer="bestdeal">
+<image>
+polar.jpg
+</image>
+<name>
+Polar Fitness Watch
+</name>
+<price>
+105
+</price>
+<condition>
+Black
+</condition>
+<company>
+Polar
+</company>
+<color>
+Black
+</color>
+<description>
+**************
+</description>
+</FitnessWatches>
+<FitnessWatches id="52" retailer="bestdeal">
+<image>
+moov.jpg
+</image>
+<name>
+Moov Now
+</name>
+<price>
+95
+</price>
+<condition>
+Brand New
+</condition>
+<company>
+Moov
+</company>
+<color>
+Black
+</color>
+<description>
+*****************
+</description>
+</FitnessWatches>
+<FitnessWatches id="53" retailer="bestdeal">
+<image>
+TOMTOM.png
+</image>
+<name>
+TOMTOM fitness watch
+</name>
+<price>
+80
+</price>
+<condition>
+Brand New
+</condition>
+<company>
+TomTom
+</company>
+<color>
+Black
+</color>
+<description>
+**************
+</description>
+</FitnessWatches>
+<FitnessWatches id="54">
+<image>
+mi.jpg
+</image>
+<name>
+Xaiomi
+</name>
+<price>
+65
+</price>
+<condition>
+Brand New
+</condition>
+<company>
+Xiaomi
+</company>
+<color>
+Black
+</color>
+<description>
+***************
+</description>
+</FitnessWatches>
+<FitnessWatches id="55">
+<image>
+casio.jpg
+</image>
+<name>
+Casio Fitness Watch
+</name>
+<price>
+125
+</price>
+<condition>
+Brand New
+</condition>
+<company>
+Casio
+</company>
+<color>
+Black
+</color>
+<description>
+*************
+</description>
+</FitnessWatches>
+<VoiceAssistant id="56">
+<image>
+zolo.jpg
+</image>
+<name>
+Zolo Smart Speaker
+</name>
+<price>
+85
+</price>
+<condition>
+Brand New
+</condition>
+<company>
+Zolo
+</company>
+<color>
+Black
+</color>
+<description>
+****************
+</description>
+</VoiceAssistant>
+<VoiceAssistant id="57">
+<image>
+amazon.jpg
+</image>
+<name>
+Amazon Smart Speaker
+</name>
+<price>
+120
+</price>
+<condition>
+Brand New
+</condition>
+<company>
+Amazon
+</company>
+<color>
+Black
+</color>
+<description>
+*************
+</description>
+</VoiceAssistant>
+<VoiceAssistant id="58">
+<image>
+bose_speaker.jpg
+</image>
+<name>
+Bose Smart Speaker
+</name>
+<price>
+105
+</price>
+<condition>
+Brand New
+</condition>
+<company>
+Bose
+</company>
+<color>
+Black
+</color>
+<description>
+***************
+</description>
+</VoiceAssistant>
+<VoiceAssistant id="59">
+<image>
+harman.jpg
+</image>
+<name>
+Harmon kardon Smart Speaker
+</name>
+<price>
+145
+</price>
+<condition>
+Brand New
+</condition>
+<company>
+Harmam Kardon
+</company>
+<color>
+Black
+</color>
+<description>
+*************
+</description>
+</VoiceAssistant>
+<VoiceAssistant id="60">
+<image>
+motorola.jpg
+</image>
+<name>
+Motorola Smart Speaker
+</name>
+<price>
+155
+</price>
+<condition>
+Brand New
+</condition>
+<company>
+Motorola
+</company>
+<color>
+Black
+</color>
+<description>
+****************
+</description>
+</VoiceAssistant>
+<Headphones id="61">
+<image>
+bose.jpg
+</image>
+<name>
+Bose Headphones
+</name>
+<price>
+60
+</price>
+<condition>
+Brand New
+</condition>
+<company>
+Bose
+</company>
+<color>
+Black
+</color>
+<description>
+***********
+</description>
+</Headphones>
+<Headphones id="62">
+<image>
+s_wired.jpg
+</image>
+<name>
+Schenheizer Wired Headphones
+</name>
+<price>
+85
+</price>
+<condition>
+Brand New
+</condition>
+<company>
+Schenheizer
+</company>
+<color>
+Black
+</color>
+<description>
+*******
+</description>
+</Headphones>
+<Headphones id="63" retailer="bestdeal">
+<image>
+s_wireless.jpg
+</image>
+<name>
+Schenheizer Wireless Headphone
+</name>
+<price>
+100
+</price>
+<condition>
+Brand New
+</condition>
+<company>
+Schenheizer
+</company>
+<color>
+Black
+</color>
+<description>
+*************
+</description>
+</Headphones>
+<Headphones id="64" retailer="bestdeal">
+<image>
+jbl1.jpg
+</image>
+<name>
+JBL wired Headphones
+</name>
+<price>
+65
+</price>
+<condition>
+Brand New
+</condition>
+<company>
+JBL
+</company>
+<color>
+Black
+</color>
+<description>
+**************
+</description>
+</Headphones>
+<Headphones id="65">
+<image>
+jbl_wireless.jpg
+</image>
+<name>
+JBL Wireless Headphones
+</name>
+<price>
+80
+</price>
+<condition>
+Brand New
+</condition>
+<company>
+JBL
+</company>
+<color>
+Black
+</color>
+<description>
+***********
+</description>
+</Headphones>
+<Laptops id="66">
+<image>
+vaio.png
+</image>
+<name>
+Vaio laptop
+</name>
+<price>
+350
+</price>
+<condition>
+Brand New
+</condition>
+<company>
+Sony
+</company>
+<color>
+Black
+</color>
+<description>
+*************
+</description>
+</Laptops>
+<Laptops id="67" retailer="bestdeal">
+<image>
+acer.jpg
+</image>
+<name>
+Acer laptop
+</name>
+<price>
+600
+</price>
+<condition>
+Brand new
+</condition>
+<company>
+Acer
+</company>
+<color>
+Black
+</color>
+<description>
+************
+</description>
+</Laptops>
+<Laptops id="68">
+<image>
+macbook_pro.jpg
+</image>
+<name>
+Macbook Pro
+</name>
+<price>
+1300
+</price>
+<condition>
+Brand new
+</condition>
+<company>
+Apple
+</company>
+<color>
+Silver
+</color>
+<description>
+*************
+</description>
+</Laptops>
+<Laptops id="69" retailer="bestdeal">
+<image>
+dell_latitude.jpg
+</image>
+<name>
+dell latitute laptop
+</name>
+<price>
+800
+</price>
+<condition>
+Brand new
+</condition>
+<company>
+Dell
+</company>
+<color>
+Black
+</color>
+<description>
+**************
+</description>
+</Laptops>
+<Phones id="70" retailer="bestdeal">
+<image>
+s1.jpg
+</image>
+<name>
+Samsung Phone
+</name>
+<price>
+700
+</price>
+<condition>
+Brand New
+</condition>
+<company>
+Samsung
+</company>
+<color>
+Black
+</color>
+<description>
+****************
+</description>
+</Phones>
+<Phones id="71">
+<image>
+pixel.jpg
+</image>
+<name>
+Pixel Phone
+</name>
+<price>
+1200
+</price>
+<condition>
+Brand New
+</condition>
+<company>
+Google
+</company>
+<color>
+White
+</color>
+<description>
+***********
+</description>
+</Phones>
+<Phones id="72" retailer="bestdeal">
+<image>
+n1.jpg
+</image>
+<name>
+Nexus Phone
+</name>
+<price>
+600
+</price>
+<condition>
+Brand New
+</condition>
+<company>
+Google
+</company>
+<color>
+Black
+</color>
+<description>
+***************
+</description>
+</Phones>
+<Phones id="73">
+<image>
+lg1.jpg
+</image>
+<name>
+LG Phone
+</name>
+<price>
+400
+</price>
+<condition>
+Brand New
+</condition>
+<company>
+LG
+</company>
+<color>
+Black
+</color>
+<description>
+*********
+</description>
+</Phones>
+<Phones id="74">
+<image>
+l1.png
+</image>
+<name>
+Lenovo Phone
+</name>
+<price>
+300
+</price>
+<condition>
+Brand New
+</condition>
+<company>
+Lenovo
+</company>
+<color>
+Black
+</color>
+<description>
+****************
+</description>
+</Phones>
+<Laptops id="75" retailer="bestdeal">
+<image>
+Asus.png
+</image>
+<name>
+Demo
+</name>
+<price>
+120
+</price>
+<condition>
+New
+</condition>
+<company>
+Asus
+</company>
+<color>
+Red
+</color>
+<description>
+****
+</description>
+</Laptops>
+</products>
+</ProductCatalog>

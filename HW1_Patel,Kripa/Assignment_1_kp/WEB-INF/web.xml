@@ -1,0 +1,287 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!--
+  Licensed to the Apache Software Foundation (ASF) under one or more
+  contributor license agreements.  See the NOTICE file distributed with
+  this work for additional information regarding copyright ownership.
+  The ASF licenses this file to You under the Apache License, Version 2.0
+  (the "License"); you may not use this file except in compliance with
+  the License.  You may obtain a copy of the License at
+
+      http://www.apache.org/licenses/LICENSE-2.0
+
+  Unless required by applicable law or agreed to in writing, software
+  distributed under the License is distributed on an "AS IS" BASIS,
+  WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+  See the License for the specific language governing permissions and
+  limitations under the License.
+-->
+<web-app xmlns="http://java.sun.com/xml/ns/javaee" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://java.sun.com/xml/ns/javaeehttp://java.sun.com/xml/ns/javaee/web-app_3_0.xsd"
+  version="3.0" metadata-complete="true">  
+  
+  <welcome-file-list>
+		<welcome-file>Main</welcome-file>
+   </welcome-file-list>
+  
+	<servlet>
+        <servlet-name>Main</servlet-name>
+        <servlet-class>Main</servlet-class>
+    </servlet>
+ 
+   
+    <servlet-mapping>
+        <servlet-name>Main</servlet-name>
+        <url-pattern>/Main</url-pattern>
+    </servlet-mapping>
+	
+	<servlet>
+        <servlet-name>LoginPage</servlet-name>
+        <servlet-class>LoginPage</servlet-class>
+    </servlet>
+ 
+   
+    <servlet-mapping>
+        <servlet-name>LoginPage</servlet-name>
+        <url-pattern>/LoginPage</url-pattern>
+    </servlet-mapping>
+	
+	<servlet>
+        <servlet-name>CheckLogin</servlet-name>
+        <servlet-class>CheckLogin</servlet-class>
+    </servlet>
+ 
+   
+    <servlet-mapping>
+        <servlet-name>CheckLogin</servlet-name>
+        <url-pattern>/CheckLogin</url-pattern>
+    </servlet-mapping>
+	
+	<servlet>
+        <servlet-name>RegisterPage</servlet-name>
+        <servlet-class>RegisterPage</servlet-class>
+    </servlet>
+ 
+	
+	<servlet-mapping>
+        <servlet-name>RegisterPage</servlet-name>
+        <url-pattern>/RegisterPage</url-pattern>
+    </servlet-mapping>
+	
+	<servlet>
+        <servlet-name>CheckRegister</servlet-name>
+        <servlet-class>CheckRegister</servlet-class>
+    </servlet>
+ 
+   
+    <servlet-mapping>
+        <servlet-name>CheckRegister</servlet-name>
+        <url-pattern>/CheckRegister</url-pattern>
+    </servlet-mapping>
+	
+	<servlet>
+        <servlet-name>SignoutPage</servlet-name>
+        <servlet-class>SignoutPage</servlet-class>
+    </servlet>
+ 
+   
+    <servlet-mapping>
+        <servlet-name>SignoutPage</servlet-name>
+        <url-pattern>/SignoutPage</url-pattern>
+    </servlet-mapping>
+	
+  <servlet-mapping>
+        <servlet-name>ProductsPage</servlet-name>
+        <url-pattern>/ProductsPage</url-pattern>
+    </servlet-mapping>
+	
+	<servlet>
+        <servlet-name>ProductsPage</servlet-name>
+        <servlet-class>ProductsPage</servlet-class>
+    </servlet>
+ 
+	<servlet>
+        <servlet-name>AddCartPage</servlet-name>
+        <servlet-class>AddCartPage</servlet-class>
+    </servlet>
+	<servlet-mapping>
+        <servlet-name>AddCartPage</servlet-name>
+        <url-pattern>/AddCartPage</url-pattern>
+    </servlet-mapping>	
+	
+	<servlet>
+        <servlet-name>ProductDetailsPage</servlet-name>
+        <servlet-class>ProductDetailsPage</servlet-class>
+    </servlet>
+	<servlet-mapping>
+        <servlet-name>ProductDetailsPage</servlet-name>
+        <url-pattern>/ProductDetailsPage</url-pattern>
+    </servlet-mapping>
+	
+	<servlet>
+        <servlet-name>CartPage</servlet-name>
+        <servlet-class>CartPage</servlet-class>
+    </servlet>
+	<servlet-mapping>
+        <servlet-name>CartPage</servlet-name>
+        <url-pattern>/CartPage</url-pattern>
+    </servlet-mapping>
+	
+	<servlet>
+        <servlet-name>CheckoutVerificationPage</servlet-name>
+        <servlet-class>CheckoutVerificationPage</servlet-class>
+    </servlet>
+	<servlet-mapping>
+        <servlet-name>CheckoutVerificationPage</servlet-name>
+        <url-pattern>/CheckoutVerificationPage</url-pattern>
+    </servlet-mapping>
+	
+	<servlet>
+        <servlet-name>FinalCheckoutPage</servlet-name>
+        <servlet-class>FinalCheckoutPage</servlet-class>
+    </servlet>
+	<servlet-mapping>
+        <servlet-name>FinalCheckoutPage</servlet-name>
+        <url-pattern>/FinalCheckoutPage</url-pattern>
+    </servlet-mapping>
+	
+	<servlet>
+        <servlet-name>DeleteCartPage</servlet-name>
+        <servlet-class>DeleteCartPage</servlet-class>
+    </servlet>
+	<servlet-mapping>
+        <servlet-name>DeleteCartPage</servlet-name>
+        <url-pattern>/DeleteCartPage</url-pattern>
+    </servlet-mapping>
+	
+	<servlet>
+        <servlet-name>DisplayOrders</servlet-name>
+        <servlet-class>DisplayOrders</servlet-class>
+    </servlet>
+	<servlet-mapping>
+        <servlet-name>DisplayOrders</servlet-name>
+        <url-pattern>/DisplayOrders</url-pattern>
+    </servlet-mapping>
+	
+	<servlet>
+        <servlet-name>RemoveOrderPage</servlet-name>
+        <servlet-class>RemoveOrderPage</servlet-class>
+    </servlet>
+	<servlet-mapping>
+        <servlet-name>RemoveOrderPage</servlet-name>
+        <url-pattern>/RemoveOrderPage</url-pattern>
+    </servlet-mapping>
+	
+	<servlet>
+        <servlet-name>Profile</servlet-name>
+        <servlet-class>Profile</servlet-class>
+    </servlet>
+	<servlet-mapping>
+        <servlet-name>Profile</servlet-name>
+        <url-pattern>/Profile</url-pattern>
+    </servlet-mapping>
+	
+	<servlet>
+        <servlet-name>OrderUpdatePage</servlet-name>
+        <servlet-class>OrderUpdatePage</servlet-class>
+    </servlet>
+	<servlet-mapping>
+        <servlet-name>OrderUpdatePage</servlet-name>
+        <url-pattern>/OrderUpdatePage</url-pattern>
+    </servlet-mapping>
+	
+	<servlet>
+        <servlet-name>NewCustomerPage</servlet-name>
+        <servlet-class>NewCustomerPage</servlet-class>
+    </servlet>
+	<servlet-mapping>
+        <servlet-name>NewCustomerPage</servlet-name>
+        <url-pattern>/NewCustomerPage</url-pattern>
+    </servlet-mapping>
+	<servlet>
+        <servlet-name>HomeSAM</servlet-name>
+        <servlet-class>HomeSAM</servlet-class>
+    </servlet>
+	<servlet-mapping>
+        <servlet-name>HomeSAM</servlet-name>
+        <url-pattern>/HomeSAM</url-pattern>
+    </servlet-mapping>
+	
+	<servlet>
+        <servlet-name>HomeSM</servlet-name>
+        <servlet-class>HomeSM</servlet-class>
+    </servlet>
+	<servlet-mapping>
+        <servlet-name>HomeSM</servlet-name>
+        <url-pattern>/HomeSM</url-pattern>
+    </servlet-mapping>
+	<servlet>
+        <servlet-name>CheckUpdateOrder</servlet-name>
+        <servlet-class>CheckUpdateOrder</servlet-class>
+    </servlet>
+	<servlet-mapping>
+        <servlet-name>CheckUpdateOrder</servlet-name>
+        <url-pattern>/CheckUpdateOrder</url-pattern>
+    </servlet-mapping>
+	
+	<servlet>
+        <servlet-name>CheckOrder</servlet-name>
+        <servlet-class>CheckOrder</servlet-class>
+    </servlet>
+	<servlet-mapping>
+        <servlet-name>CheckOrder</servlet-name>
+        <url-pattern>/CheckOrder</url-pattern>
+    </servlet-mapping>
+	
+	<servlet>
+        <servlet-name>ProductDeletePage</servlet-name>
+        <servlet-class>ProductDeletePage</servlet-class>
+    </servlet>
+	<servlet-mapping>
+        <servlet-name>ProductDeletePage</servlet-name>
+        <url-pattern>/ProductDeletePage</url-pattern>
+    </servlet-mapping>
+	
+	<servlet>
+        <servlet-name>CheckDeleteProduct</servlet-name>
+        <servlet-class>CheckDeleteProduct</servlet-class>
+    </servlet>
+	<servlet-mapping>
+        <servlet-name>CheckDeleteProduct</servlet-name>
+        <url-pattern>/CheckDeleteProduct</url-pattern>
+    </servlet-mapping>
+	
+	<servlet>
+        <servlet-name>CheckUpdateProduct</servlet-name>
+        <servlet-class>CheckUpdateProduct</servlet-class>
+    </servlet>
+	<servlet-mapping>
+        <servlet-name>CheckUpdateProduct</servlet-name>
+        <url-pattern>/CheckUpdateProduct</url-pattern>
+    </servlet-mapping>
+	
+	<servlet>
+        <servlet-name>ProductUpdatePage</servlet-name>
+        <servlet-class>ProductUpdatePage</servlet-class>
+    </servlet>
+	<servlet-mapping>
+        <servlet-name>ProductUpdatePage</servlet-name>
+        <url-pattern>/ProductUpdatePage</url-pattern>
+    </servlet-mapping>
+	
+	<servlet>
+        <servlet-name>AddProductPage</servlet-name>
+        <servlet-class>AddProductPage</servlet-class>
+    </servlet>
+	<servlet-mapping>
+        <servlet-name>AddProductPage</servlet-name>
+        <url-pattern>/AddProductPage</url-pattern>
+    </servlet-mapping>
+	<servlet>
+        <servlet-name>ProductAddPage</servlet-name>
+        <servlet-class>ProductAddPage</servlet-class>
+    </servlet>
+	<servlet-mapping>
+        <servlet-name>ProductAddPage</servlet-name>
+        <url-pattern>/ProductAddPage</url-pattern>
+    </servlet-mapping>
+	
+</web-app>

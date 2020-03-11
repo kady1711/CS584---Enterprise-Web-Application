@@ -1,0 +1,28 @@
+1) create database webapp
+
+2) CREATE TABLE `products` (   `pid` int(11) NOT NULL AUTO_INCREMENT,   `pimage` varchar(50) DEFAULT NULL,   `pname` varchar(200) DEFAULT NULL,   `pprice` double DEFAULT NULL,   `pcondition` varchar(50) DEFAULT NULL,   `pcompany` varchar(50) DEFAULT NULL,   `pcolor` varchar(50) DEFAULT NULL,   `pdescription` varchar(400) DEFAULT NULL,   `rname` varchar(50) DEFAULT NULL,   `pcategory` varchar(50) DEFAULT NULL,   PRIMARY KEY (`pid`) ) ENGINE=InnoDB AUTO_INCREMENT=63 DEFAULT CHARSET=utf8
+
+3) CREATE TABLE `registration` (   `userid` int(11) NOT NULL AUTO_INCREMENT,   `firstname` varchar(40) DEFAULT NULL,   `lastname` varchar(40) DEFAULT NULL,   `username` varchar(40) DEFAULT NULL,   `password` varchar(40) DEFAULT NULL,   `usertype` varchar(40) DEFAULT NULL,   `age` varchar(30) DEFAULT NULL,   `gender` varchar(30) DEFAULT NULL,   PRIMARY KEY (`userid`) ) ENGINE=InnoDB AUTO_INCREMENT=6 DEFAULT CHARSET=utf8
+
+4)CREATE TABLE `accessories` (   `aid` int(11) NOT NULL AUTO_INCREMENT,   `aimage` varchar(50) DEFAULT NULL,   `aname` varchar(200) DEFAULT NULL,   `aprice` double DEFAULT NULL,   `acondition` varchar(50) DEFAULT NULL,   `pid` int(11) DEFAULT NULL,   PRIMARY KEY (`aid`) ) ENGINE=InnoDB AUTO_INCREMENT=2951 DEFAULT CHARSET=utf8
+
+5)CREATE TABLE `orderdetails` (   `orderno` int(11) NOT NULL AUTO_INCREMENT,   `orderid` varchar(40) DEFAULT NULL,   `email` varchar(40) DEFAULT NULL,   `amount` varchar(40) DEFAULT NULL,   `address` varchar(200) DEFAULT NULL,   `orderdate` varchar(40) DEFAULT NULL,   PRIMARY KEY (`orderno`) ) ENGINE=InnoDB AUTO_INCREMENT=8 DEFAULT CHARSET=utf8
+
+6)CREATE TABLE `orderproductdetails` (   `opid` int(11) NOT NULL AUTO_INCREMENT,   `orderno` int(11) DEFAULT NULL,   `pname` varchar(200) DEFAULT NULL,   `pprice` varchar(40) DEFAULT NULL,   `pqty` int(11) DEFAULT NULL,   `pimage` varchar(40) DEFAULT NULL,   PRIMARY KEY (`opid`) ) ENGINE=InnoDB AUTO_INCREMENT=16 DEFAULT CHARSET=utf8
+
+
+Queries for creating retailer table and inserting values:-
+
+CREATE TABLE `retailer` (   `rid` int(11) NOT NULL AUTO_INCREMENT,   `rname` varchar(100) DEFAULT NULL,   `rstate` varchar(100) DEFAULT NULL,   `rcity` varchar(50) DEFAULT NULL,   `rzip` varchar(50) DEFAULT NULL,   PRIMARY KEY (`rid`) ) ENGINE=InnoDB AUTO_INCREMENT=33 DEFAULT CHARSET=utf8
+
+insert into retailer(rname,rstate,rcity,rzip) values ("bestdeal","Illinois","Chicago","60616")
+
+insert into retailer(rname,rstate,rcity,rzip) values ("walmart","Illinois","Chicago","60617")
+
+insert into retailer(rname,rstate,rcity,rzip) values ("bigbasket","Illinois","Chicago","60706")
+
+insert into retailer(rname,rstate,rcity,rzip) values ("macys","Illinois","Chicago","60818")
+
+insert into retailer(rname,rstate,rcity,rzip) values ("bestdeals","Illinois","Chicago","60516")
+
+
