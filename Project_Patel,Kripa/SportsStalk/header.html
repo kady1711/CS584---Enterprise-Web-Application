@@ -1,0 +1,56 @@
+<!doctype html>
+<html>
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <title>SportsStalk</title>
+	<link rel='shortcut icon' href='images/SS.png'/>
+	<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+    <link rel="stylesheet" href="styles.css" type="text/css" />
+	
+
+</head>
+<body onload="init()">
+<script type="text/javascript" src="ajax_search.js"></script>
+<div id="container" >
+    <header>
+        <h1><b><a href="/">Sports<span> Stalk</span></a></b></h1>
+		<div class="submit-button" style="background-repeat:no-repeat;background-position:10px 10px;width:300px;font-size:15px;float:right;margin-right:48px;-webkit-transition: width 0.4s ease-in-out;
+		transition: width 0.4s ease-in-out;">
+			<div name="auto-fill-form">
+				<input style="width:340px;" type="text" placeholder="Search Event By Name" id="search-input" name="search-input" onkeyup="AutoComplete()"/>
+					<div id="search-row">
+						<table class="sTable" id="sTable"></table>
+					</div>	
+			</div>
+		</div>
+    </header>
+    <nav>
+        <ul>
+            <li class="start selected"><a href="Main">Home</a></li>
+            <li class=""><a href="">About Us</a></li>
+			<li class="dropdown"><a href="#">Games</a>
+				<div class="dropdown-content">
+      				<a href="FootballList">Football</a>
+     				<a href="BaseballList">Baseball</a>
+    				<a href="BasketballList">Basketball</a>
+					<a href="IcehockeyList">Ice Hockey</a>
+					<a href="TennisList">Tennis</a>
+					<a href="GolfList">Golf</a>
+				</div>
+			</li>
+			<li><a href="RecommendationList">Recommendation For You</a></li>
+			<li><a href="">Help</a></li>
+			<li><div class="search-class" style="background-repeat:no-repeat;background-position:10px 10px;width:200px;font-size:15px;float:right;margin-right:48px;-webkit-transition: width 0.4s ease-in-out;
+		transition: width 0.4s ease-in-out;"><form action="FilterByCityPage" method="get" class = 'submit-button'>
+				<input style="width:240px;margin-top:12px;" type="text" placeholder="Search Event By City" id="search-city" name="search-city" onkeyup=""/>
+		</li>
+		<li><div class="search-class" style="background-repeat:no-repeat;background-position:10px 10px;width:200px;font-size:15px;float:right;margin-right:48px;-webkit-transition: width 0.4s ease-in-out;
+		transition: width 0.4s ease-in-out;">
+		<button style='color:#B86363 ;font-weight:bold;margin-left:14px;margin-top:12px;padding: 3px 3px;width:36%;' type='submit'>Search</button></form>
+		</div>
+		</li>
+		
+       
+

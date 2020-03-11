@@ -1,0 +1,39 @@
+create database SportsStalk;
+use SportsStalk;
+
+CREATE TABLE `events` (
+   `id` varchar(500),
+   `status` varchar(500) DEFAULT NULL,
+   `locale` varchar(500) DEFAULT NULL,
+   `name` varchar(500) DEFAULT NULL,
+   `date` varchar(500) DEFAULT NULL,
+   `venue` varchar(500) DEFAULT NULL,
+   `city` varchar(500) DEFAULT NULL,
+   `state` varchar(500) DEFAULT NULL,
+   `postalCode` varchar(500) DEFAULT NULL,
+   `country` varchar(500) DEFAULT NULL,
+   `catName` varchar(500) 
+ );
+ 
+ALTER TABLE events
+MODIFY COLUMN `catName` varchar(1000);
+
+ select * from events;
+ 
+ 
+ 
+ create table userDetails(
+	`userid` int(11) NOT NULL AUTO_INCREMENT,
+	`firstname` varchar(40) DEFAULT NULL,
+   `lastname` varchar(40) DEFAULT NULL,
+   `email` varchar(40) DEFAULT NULL,
+   `password` varchar(40) DEFAULT NULL,
+	`pincode` varchar(30) DEFAULT NULL,
+	`preferences` varchar(100) DEFAULT NULL,
+   PRIMARY KEY (`userid`)
+)AUTO_INCREMENT=16 DEFAULT CHARSET=utf8;
+ 
+ drop table userDetails;
+ INSERT INTO userDetails (`firstname`, `lastname`, `email`, `password`, `pincode`, `preferences`) VALUES ("r", "r", "r", "e", "w","q");
+ select* from userDetails;
+ 

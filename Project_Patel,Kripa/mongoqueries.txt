@@ -1,0 +1,4 @@
+1) use sportsstalkhistory
+
+
+2) db.createCollection("userhistory")

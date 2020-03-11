@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!--
+  Licensed to the Apache Software Foundation (ASF) under one or more
+  contributor license agreements.  See the NOTICE file distributed with
+  this work for additional information regarding copyright ownership.
+  The ASF licenses this file to You under the Apache License, Version 2.0
+  (the "License"); you may not use this file except in compliance with
+  the License.  You may obtain a copy of the License at
+
+      http://www.apache.org/licenses/LICENSE-2.0
+
+  Unless required by applicable law or agreed to in writing, software
+  distributed under the License is distributed on an "AS IS" BASIS,
+  WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+  See the License for the specific language governing permissions and
+  limitations under the License.
+-->
+<web-app xmlns="http://java.sun.com/xml/ns/javaee" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://java.sun.com/xml/ns/javaeehttp://java.sun.com/xml/ns/javaee/web-app_3_0.xsd"
+  version="3.0" metadata-complete="true">  
+  
+  <welcome-file-list>
+		<welcome-file>Main</welcome-file>
+   </welcome-file-list>
+  
+	<servlet>
+        <servlet-name>Main</servlet-name>
+        <servlet-class>Main</servlet-class>
+    </servlet>
+ 
+   
+    <servlet-mapping>
+        <servlet-name>Main</servlet-name>
+        <url-pattern>/Main</url-pattern>
+    </servlet-mapping>
+	
+	<servlet>
+        <servlet-name>BaseballList</servlet-name>
+        <servlet-class>BaseballList</servlet-class>
+    </servlet>
+	<servlet-mapping>
+        <servlet-name>BaseballList</servlet-name>
+        <url-pattern>/BaseballList</url-pattern>
+    </servlet-mapping>
+	
+	<servlet>
+        <servlet-name>BasketballList</servlet-name>
+        <servlet-class>BasketballList</servlet-class>
+    </servlet>
+	<servlet-mapping>
+        <servlet-name>BasketballList</servlet-name>
+        <url-pattern>/BasketballList</url-pattern>
+    </servlet-mapping>
+	
+	<servlet>
+        <servlet-name>FootballList</servlet-name>
+        <servlet-class>FootballList</servlet-class>
+    </servlet>
+	<servlet-mapping>
+        <servlet-name>FootballList</servlet-name>
+        <url-pattern>/FootballList</url-pattern>
+    </servlet-mapping>
+	
+	<servlet>
+        <servlet-name>IcehockeyList</servlet-name>
+        <servlet-class>IcehockeyList</servlet-class>
+    </servlet>
+	<servlet-mapping>
+        <servlet-name>IcehockeyList</servlet-name>
+        <url-pattern>/IcehockeyList</url-pattern>
+    </servlet-mapping>
+	
+	<servlet>
+        <servlet-name>TennisList</servlet-name>
+        <servlet-class>TennisList</servlet-class>
+    </servlet>
+	<servlet-mapping>
+        <servlet-name>TennisList</servlet-name>
+        <url-pattern>/TennisList</url-pattern>
+    </servlet-mapping>
+	
+	<servlet>
+        <servlet-name>GolfList</servlet-name>
+        <servlet-class>GolfList</servlet-class>
+    </servlet>
+	<servlet-mapping>
+        <servlet-name>GolfList</servlet-name>
+        <url-pattern>/GolfList</url-pattern>
+    </servlet-mapping>
+	
+	<servlet>
+        <servlet-name>RegisterPage</servlet-name>
+        <servlet-class>RegisterPage</servlet-class>
+    </servlet>
+	<servlet-mapping>
+        <servlet-name>RegisterPage</servlet-name>
+        <url-pattern>/RegisterPage</url-pattern>
+    </servlet-mapping>
+	
+	<servlet>
+        <servlet-name>CheckRegister</servlet-name>
+        <servlet-class>CheckRegister</servlet-class>
+    </servlet>
+	<servlet-mapping>
+        <servlet-name>CheckRegister</servlet-name>
+        <url-pattern>/CheckRegister</url-pattern>
+    </servlet-mapping>
+	
+	<servlet>
+        <servlet-name>LoginPage</servlet-name>
+        <servlet-class>LoginPage</servlet-class>
+    </servlet>
+	<servlet-mapping>
+        <servlet-name>LoginPage</servlet-name>
+        <url-pattern>/LoginPage</url-pattern>
+    </servlet-mapping>
+	
+	<servlet>
+        <servlet-name>CheckLogin</servlet-name>
+        <servlet-class>CheckLogin</servlet-class>
+    </servlet>
+	<servlet-mapping>
+        <servlet-name>CheckLogin</servlet-name>
+        <url-pattern>/CheckLogin</url-pattern>
+    </servlet-mapping>
+	
+	<servlet>
+        <servlet-name>AutoCompleteServlet</servlet-name>
+        <servlet-class>AutoCompleteServlet</servlet-class>
+    </servlet>
+	<servlet-mapping>
+        <servlet-name>AutoCompleteServlet</servlet-name>
+        <url-pattern>/AutoCompleteServlet</url-pattern>
+    </servlet-mapping>
+	
+	<servlet>
+        <servlet-name>Events</servlet-name>
+        <servlet-class>Events</servlet-class>
+    </servlet>
+	<servlet-mapping>
+        <servlet-name>Events</servlet-name>
+        <url-pattern>/Events</url-pattern>
+    </servlet-mapping>
+	
+	<servlet>
+        <servlet-name>DisplayResultPage</servlet-name>
+        <servlet-class>DisplayResultPage</servlet-class>
+    </servlet>
+	<servlet-mapping>
+        <servlet-name>DisplayResultPage</servlet-name>
+        <url-pattern>/DisplayResultPage</url-pattern>
+    </servlet-mapping>
+	
+	<servlet>
+        <servlet-name>SignoutPage</servlet-name>
+        <servlet-class>SignoutPage</servlet-class>
+    </servlet>
+	<servlet-mapping>
+        <servlet-name>SignoutPage</servlet-name>
+        <url-pattern>/SignoutPage</url-pattern>
+    </servlet-mapping>
+	
+	<servlet>
+        <servlet-name>FilterByCityPage</servlet-name>
+        <servlet-class>FilterByCityPage</servlet-class>
+    </servlet>
+	<servlet-mapping>
+        <servlet-name>FilterByCityPage</servlet-name>
+        <url-pattern>/FilterByCityPage</url-pattern>
+    </servlet-mapping>
+	
+	<servlet>
+        <servlet-name>FilterByPreferencePage</servlet-name>
+        <servlet-class>FilterByPreferencePage</servlet-class>
+    </servlet>
+	<servlet-mapping>
+        <servlet-name>FilterByPreferencePage</servlet-name>
+        <url-pattern>/FilterByPreferencePage</url-pattern>
+    </servlet-mapping>
+	
+	<servlet>
+        <servlet-name>RecommendationList</servlet-name>
+        <servlet-class>RecommendationList</servlet-class>
+    </servlet>
+	<servlet-mapping>
+        <servlet-name>RecommendationList</servlet-name>
+        <url-pattern>/RecommendationList</url-pattern>
+    </servlet-mapping>
+	
+	
+	
+	
+	
+	
+</web-app>
